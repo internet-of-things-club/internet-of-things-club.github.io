@@ -25,9 +25,9 @@ We envision IoT Club to be a hub for students interested in working with compute
 ### The Only Rule of ~~Fight Club~~ IoT Club
 If you agree to be apart of a project, you are **required** to be apart of that     project until all members of that project come to a mutual agreement that...
 
-    - The project is finished
-    - The project can be put on pause 
-    - That your leaving the group will not cause any major disruptions 
+- The project is finished
+- The project can be put on pause 
+- That your leaving the group will not cause any major disruptions 
 
 Reasoning: 
 _Everyone here is trying to use the stuff they do here to get a job._ Leaving a project part way and causing it to remain incomplete, means that everyone just wasted their time. Lets make sure time spent doing projects here actually produce something we can show on our resumes. 
