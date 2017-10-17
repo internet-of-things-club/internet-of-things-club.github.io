@@ -1,3 +1,5 @@
+# Sign up for IoT Club! [Click Me to Fill Out the Signup Form!](http://goo.gl/wyaZZ9)
+
 # Inter-Club Name Exchange
 **Before I talk about IoT Club**, I recognize that not everyone wants to do IoT and that there are alot of things one can do in the tech industry. I am proud to say that IoT Club is part of a semi-formal Inter-Club Name Exchange. What does this mean? It means that when you join IoT, you join **ALL** the other STEM clubs by assiocation. We will, on your behalf, advertise you the other clubs so that you may join and do projects with them. The following is the list of clubs in the semi-formal Inter-Club Name Exchange: 
 - ACM (Associated Computing Machinary) (outreach and funding for non-club related projects)
