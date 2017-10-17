@@ -24,6 +24,7 @@ We envision IoT Club to be a hub for students interested in working with compute
 
 ### The Only Rule of ~~Fight Club~~ IoT Club
 If you agree to be apart of a project, you are **required** to be apart of that     project until all members of that project come to a mutual agreement that...
+
     - The project is finished
     - The project can be put on pause 
     - That your leaving the group will not cause any major disruptions 
