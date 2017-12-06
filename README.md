@@ -8,7 +8,8 @@
 - H[app]iness Development (web dev, app dev, game dev; less focus on hardware)
 - KWAD Dawgs (quadrocopter club about flying and building quadracoptors)
 - Trickfire Robotics (robotic competition club, they do the NASA Robotic Mining competiton every year)
-- UWave, Clamor, Husky Hearld (these clubs need someone to do IT, make useful scripts to automate common / tedious computing tasks, maintain their website, etc)
+- UWave.fm, Clamor, Husky Hearld (these clubs need someone to do IT, make useful scripts to automate common / tedious computing tasks, maintain their website, etc)
+- Grayhats.io (cybersecurity club, learn how to hack computers!, join a CTF team!) 
 
 ## What is the Internet of Things (IoT)?
 From [Wikipedia](https://en.wikipedia.org/wiki/Internet_of_things): 
@@ -32,7 +33,7 @@ If you agree to be apart of a project, you are **required** to be apart of that 
 - That your leaving the group will not cause any major disruptions 
 
 Reasoning: 
-_Everyone here is trying to use the stuff they do here to get a job._ Leaving a project part way and causing it to remain incomplete, means that everyone just wasted their time. Lets make sure time spent doing projects here actually produce something we can show on our resumes. 
+_Everyone here is trying to use the stuff they do here to get a job._ Leaving a project part way can cause major disruptions in the project which may leave it incomplete. An incomplete project is not as useful as a completed project in applying to internships and jobs. Let's make sure time spent doing projects here actually produce something we can show on our resumes.
 
 ### The Goals of IoT Club
 1. Get you an internship 
@@ -64,6 +65,6 @@ We will also try to keep you all informed of hackthon, events, and anything else
 ## Finally...!
 If you have an idea for a project or have a hackthon you need friends to go with or have a conference you think would be awesome to attend, TELL US! 
 
-Feel free to email me `Donald Tran: dontran@uw.edu` or come to a meeting and share the idea with us! Also don't hestiate to contact me about anything else!
+Feel free to email us `iot_club@u.washington.edu` or come to a meeting and share the idea with us! Also don't hestiate to contact me about anything else!
 
 # Lets have a great year! 
